@@ -1,2 +1,3 @@
-# congito-simulator
-Congito Simulator Construct 3
+# Congito Simulator
+
+Un simulador de congitos
