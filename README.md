@@ -1,31 +1,27 @@
 # Congito Simulator
 
-Un simulador de congitos creat amb [Construct 3](https://www.construct.net/).
+A simulator of Congitos made with [Construct 3](https://www.construct.net/).
 
-## Joc
+## Play the Game
 
-Pots jugar a Congito Simulator directament des del navegador, sense necessitat d'instal·lar res.
+- **GitHub Pages:** https://fustcoma.github.io/congito-simulator/
+- **itch.io:** https://fustcoma.itch.io/congito-simulator/
 
-**[Juga a Congito Simulator](https://fustcoma.github.io/congito-simulator/)**
+## Source Project
 
-## Com jugar
+The Construct 3 project file (`congito-simulator.c3p`) can be opened and edited using Construct 3.
 
-1. Obre el joc des de l'enllaç anterior.
-2. Segueix les instruccions que apareixen a la pantalla.
-3. Gaudeix del simulador!
+To continue development:
 
-## Captures de pantalla
+1. Download or obtain the `.c3p` project file.
+2. Open [Construct 3](https://editor.construct.net/).
+3. Open the project file and make your changes.
 
-*No disponible*
+## Built With
 
-## Editar el joc
+- [Construct 3](https://www.construct.net/) — Game development engine.
+- HTML5 — Web game export.
 
-Per modificar el projecte, necessites Construct 3.
+## License
 
-1. Descarrega el fitxer `congito-simulator.c3p` del repositori.
-2. Obre [Construct 3](https://editor.construct.net/).
-3. Importa el projecte i fes-hi els canvis que vulguis.
-
-## Llicència
-
-Aquest projecte està publicat sota la llicència MIT. Consulta el fitxer [LICENSE](LICENSE) per obtenir-ne els detalls.
+See the repository's `LICENSE` file for licensing information.
