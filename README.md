@@ -2,6 +2,8 @@
 
 A simulator of Congitos made with [Construct 3](https://www.construct.net/).
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/fustcoma/badge.svg)](https://hub.xerj.org/contributors/fustcoma)
+
 ## Play the Game
 
 - **GitHub Pages:** https://fustcoma.github.io/congito-simulator/
